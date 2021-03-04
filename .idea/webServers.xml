@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7f90289-6acb-427e-9776-a709215afc9a" name="openServer" url="http://localhost">
+        <fileTransfer mountedRoot="K:\OSPanel\domains\laravel" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
