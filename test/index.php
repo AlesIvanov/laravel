@@ -6,11 +6,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+
 </head>
 <body>
-<form action="index.php" method="post" autocomplete>
-    <p>Имя: <input name="name1" maxlength="20" autofocus></p>
-    <p>Фамилия: <input name="name2" maxlength="30"></p>
-</form>
+
 </body>
 </html>
