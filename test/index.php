@@ -6,9 +6,22 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-
+    <style>
+        header {
+            top: 0px; right: 0px;
+        }
+    </style>
 </head>
 <body>
+    <header>
 
+    </header>
+    <nav></nav>
+    <section>
+
+    </section>
+    <footer>
+
+    </footer>
 </body>
 </html>
